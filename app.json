@@ -1,0 +1,8 @@
+{
+  "name": "heroku AI",
+  "description": "Classtify Image - Dogs or Cats",
+  "image": "heroku/python",
+  "repository": "https://github.com/mashukmashum/aiinception.git",
+  "keywords": ["python", "flask", "tensorflow" ],
+  "addons": [ ]
+}
